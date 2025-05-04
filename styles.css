@@ -375,7 +375,7 @@ h2 {
   left: -20px;
   top: -20px;
   font-size: 34px;
-  color: #48d1cc;
+  color: #30af8b;
   transition: transform 0.3s ease;
 }
 .content-block.meme:before { content: '\f5a1'; }
